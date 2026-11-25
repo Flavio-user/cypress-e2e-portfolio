@@ -30,7 +30,7 @@ Proyecto de automatización de pruebas desarrollado con **Cypress** y **JavaScri
 1. Clonar el repositorio:
 
 ```bash
-git clone [https://github.com/Flavio-user/cypress-e2e-portfolio.git](https://github.com/Flavio-user/cypress-e2e-portfolio.git)
+git clone https://github.com/Flavio-user/cypress-e2e-portfolio.git
 
 ```
 2. Instalar dependencias:

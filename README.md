@@ -26,9 +26,11 @@ Proyecto de automatización de pruebas desarrollado con **Cypress** y **JavaScri
 - **Custom Commands (`cypress/support/commands.js`)**: Encapsulamiento del flujo de autenticación (`cy.login`) para evitar duplicación de código.
 
 ## Cómo ejecutar el proyecto
+
 1. Clonar el repositorio:
-   ```bash
-  git clone https://github.com/Flavio-user/cypress-e2e-portfolio.git
+
+```bash
+git clone [https://github.com/Flavio-user/cypress-e2e-portfolio.git](https://github.com/Flavio-user/cypress-e2e-portfolio.git)
 
 ```
 2. Instalar dependencias:

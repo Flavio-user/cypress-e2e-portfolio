@@ -38,6 +38,14 @@ Proyecto de automatización de pruebas desarrollado con **Cypress** y **JavaScri
 4. Hacer clic en el ícono del carrito de compras.
 5. **Resultado esperado:** La URL incluye `/cart.html` y el producto *Sauce Labs Backpack* se muestra visible en el listado del carrito.
 
+## Evidencia de Ejecución
+
+### Pruebas End-to-End (UI) - Swag Labs
+<img width="1919" height="982" alt="Captura de pantalla 2026-11-25 154350" src="https://github.com/user-attachments/assets/cf81aa90-529d-41f4-9257-9438fb6bb96b" />
+
+### Pruebas de API REST (GET & POST)
+<img width="1641" height="795" alt="Captura de pantalla 2026-11-25 154229" src="https://github.com/user-attachments/assets/2165bca1-4255-417c-a4ef-915af784f8d5" />
+
 ## Cómo Ejecutar el Proyecto
 
 1. Clonar el repositorio:
